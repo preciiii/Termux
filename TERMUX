@@ -6,3 +6,4 @@ curl -L -o /sdcard/download/reconnect.lua https://raw.githubusercontent.com/null
 
 Step 3:
 lua /sdcard/download/reconnect.lua
+asdsadasd
